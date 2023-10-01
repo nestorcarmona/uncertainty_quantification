@@ -1,8 +1,0 @@
-ipykernel
-numpy
-torch
-numpy 
-seaborn
-matplotlib
-tqdm
-scikit-learn
